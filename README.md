@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👋 Hi, I'm Nawida!<br><br>🎓 Computer Programming Student at Istanbul Kultur University<br>🎨 Passionate about Frontend Development & UI/UX Design<br>📱 Currently learning Mobile App Development with Ionic & Angular
 
 
